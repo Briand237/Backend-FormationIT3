@@ -67,7 +67,7 @@ public class SecurityConfiguration {
         CorsConfiguration configuration = new CorsConfiguration();
 
         configuration.setAllowedOrigins(
-                List.of("http://localhost:4200", "https://frontend-formation-it-3.vercel.app", "https://frontend-formation-it-3-5twt.vercel.app")
+                List.of("http://localhost:4200", "https://frontend-fomation-it-3.vercel.app", "https://frontend-fomation-it-3-5twt.vercel.app")
         );
 
         configuration.setAllowedMethods(
