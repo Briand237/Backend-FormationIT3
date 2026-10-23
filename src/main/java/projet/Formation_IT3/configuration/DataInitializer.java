@@ -1,3 +1,5 @@
+
+/*
 package projet.Formation_IT3.configuration;
 
 import projet.Formation_IT3.enums.RoleEnum;
@@ -29,3 +31,5 @@ public class DataInitializer {
         };
     }
 }
+
+ */
